@@ -13,7 +13,7 @@ Purpose was to analyze monthly outcome of playby Lousie,and also looking at outc
 ## Analysis and Challenges - 
 We started with renaming the excel sheet to kickstarter_Challange and extracting years from the date created column. Prior to that we already had created a parent column and a subcategory column since
 we had to analyze specifically on plays. So now it was easy to create a pivot table 
-                            ![Theater Outcomes by Launch date](Resources\vs_Launch.png)
+                            ![Theater Outcomes by Launch date](Resources/TheaterOutcomes_vs_LaunchDate.png)
                              from kickstarter
                             sheet as we wanted to analyze whether the play was successful, failed and got cancelled based on months and including all 
                            years it was played. 
@@ -27,7 +27,7 @@ we had to analyze specifically on plays. So now it was easy to create a pivot ta
 
 ### Analysis of Outcomes Based on Goals
 Below is the line graph showing outcomes based on Goals
-![Outcomes Based on Goal](Resources\Outcomes_vs_Goals.png)
+![Outcomes Based on Goal](Resources/Outcomes_vs_goal.png)
 
 
 
